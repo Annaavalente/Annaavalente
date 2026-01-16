@@ -42,3 +42,6 @@ Me chamo [Anna](https://www.linkedin.com/in/anna-beatriz-valente-medeiros-731ab8
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
+
+<br/>
+<br/>
